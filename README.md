@@ -1,4 +1,4 @@
-### Hi Everyone. I'm Gyeong Rok Kim 👋
+### 👋 Hi Everyone. I'm Gyeong Rok Kim
 
 (한국어 버전 : [블로그 about로 대체함](https://bluemumin.github.io/about/) )
 
