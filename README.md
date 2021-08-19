@@ -15,6 +15,23 @@
 - Operation Research
 - Leadership, Mentoring, Writing, Presentation
 
+<br/>
+
+### 💫 Experience
+- **11st** - Machine learning developer *(Jan 2021 ~)*
+- **SAP** - Student Intern, Data analyst *(Jan 2020 - Jul 2020)*
+- **Google Developers** - DSC(Developer Student Clubs) Lead at South Korea *(2019-2020)*  
+  
+
+<br/>  
+
+
+### ✨ Summary
+
+- 🔭 I’m currently working on [11st corp](https://www.11st.co.kr/) as a machine learning engineer.
+- 🌱 I'm currently learning Deep Learning, Computer Vision.
+- 📝 I regularly write articles on [my blog](https://butter-shower.tistory.com).  
+
 <div align=left>
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://bluemumin.github.io/)](https://bluemumin.github.io/) 
@@ -22,19 +39,3 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/rokrok1217/)](https://www.instagram.com/rokrok1217/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bluedice0504@gmail.com)](mailto:bluedice0504@gmail.com)
 </div>
-
-
-<!--
-**bluemumin/bluemumin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
