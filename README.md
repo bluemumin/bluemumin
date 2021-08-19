@@ -23,6 +23,7 @@
 
 - 🔭 I’m currently working on [SK C&C](https://www.skcc.co.kr/) as a Data Analytics/Engineering.
 - 🌱 I'm always learning Maching Learing & Deep Learning & other data-related work 
+- 🔽 my another concact link is below
 
   [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://bluemumin.github.io/)](https://bluemumin.github.io/) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%EA%B2%BD%EB%A1%9D-%EA%B9%80-a1bb6b192/)](https://www.linkedin.com/in/%EA%B2%BD%EB%A1%9D-%EA%B9%80-a1bb6b192/) 
