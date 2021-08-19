@@ -20,7 +20,7 @@
 - **SK C&C** - Data Analytics/Engineering *(Jan 2020 ~)*
 - **SAP** - Student Intern, Data analyst *(Sep 2019 - Dec 2019)* 
   
-### Interest
+### 📝 Interest
 - Machine Learning / Deep Learning (Studying 5 years)
 - Oracle DBMS (Now Working Data HUB - DA(Data Architect)) 
 - MLOps(I'm studying this page : https://fullstackdeeplearning.com/)
