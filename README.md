@@ -21,7 +21,7 @@
 
 ### ✨ Summary
 
-- https://www.google.com/search?q=%ED%96%89%EB%B3%B5%EB%82%A0%EA%B0%9C+%EC%9D%B4%EB%AA%A8%ED%8B%B0%EC%BD%98&rlz=1C1CHZN_koKR928KR928&sxsrf=ALeKk02qQyortoFtYnili3CdmD6TjmegwQ:1629385039554&tbm=isch&source=iu&ictx=1&fir=C4aB4yHOw4VpLM%252C_lw4fiWqn-59ZM%252C_&vet=1&usg=AI4_-kSK55dBLzun2s8-tViZGdIC5wm59Q&sa=X&ved=2ahUKEwjHgPCjrL3yAhXkFqYKHc-lCVoQ9QF6BAgYEAE#imgrc=C4aB4yHOw4VpLM I’m currently working on [SK C&C](https://www.skcc.co.kr/) as a Data Analytics/Engineering.
+- ![image](https://user-images.githubusercontent.com/53479967/130091704-b273c5ef-1455-4ff0-8590-e92b39528f78.png)I’m currently working on [SK C&C](https://www.skcc.co.kr/) as a Data Analytics/Engineering.
 - 🌱 I'm always learning Maching Learing & Deep Learning & other data-related work 
 - 🔽 my another concact link is below 🔽
 
