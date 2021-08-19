@@ -21,7 +21,7 @@
 
 ### ✨ Summary
 
-- ![image](https://user-images.githubusercontent.com/53479967/130091704-b273c5ef-1455-4ff0-8590-e92b39528f78.png)I’m currently working on [SK C&C](https://www.skcc.co.kr/) as a Data Analytics/Engineering.
+- ![image](https://user-images.githubusercontent.com/53479967/130091704-b273c5ef-1455-4ff0-8590-e92b39528f78.png style="width: 5%")I’m currently working on [SK C&C](https://www.skcc.co.kr/) as a Data Analytics/Engineering.
 - 🌱 I'm always learning Maching Learing & Deep Learning & other data-related work 
 - 🔽 my another concact link is below 🔽
 
