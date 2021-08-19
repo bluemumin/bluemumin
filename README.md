@@ -31,3 +31,5 @@
 - 🌱 I'm always learning Maching Learing & Deep Learning & other data-related work 
 
 (한국어 버전 : [블로그 about로 대체함](https://bluemumin.github.io/about/)
+
+[![bluemumin's GitHub stats](https://github-readme-stats.vercel.app/api?username=bluemumin)](https://github.com/bluemumin/github-readme-stats)
