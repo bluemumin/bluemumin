@@ -1,5 +1,7 @@
 ### Hi Everyone. I'm Gyeong Rok Kim 👋
 
+(한국어 버전 : [블로그 about로 대체함](https://bluemumin.github.io/about/)
+
 <div align=right>
 
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbluemumin&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
@@ -29,8 +31,6 @@
 
 - 🔭 I’m currently working on [SK C&C](https://www.skcc.co.kr/) as a Data Analytics/Engineering.
 - 🌱 I'm always learning Maching Learing & Deep Learning & other data-related work 
-
-(한국어 버전 : [블로그 about로 대체함](https://bluemumin.github.io/about/)
 
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
