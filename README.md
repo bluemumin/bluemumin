@@ -33,3 +33,5 @@
 (한국어 버전 : [블로그 about로 대체함](https://bluemumin.github.io/about/)
 
 [![bluemumin's GitHub stats](https://github-readme-stats.vercel.app/api?username=bluemumin)](https://github.com/bluemumin/github-readme-stats)
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bluemumin&hide_border=true&layout=compact" align="left" style="width: 100%" />
