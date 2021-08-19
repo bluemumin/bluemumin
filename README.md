@@ -21,8 +21,8 @@
 
 ### ✨ Summary
 
-- ![image](https://user-images.githubusercontent.com/53479967/130091704-b273c5ef-1455-4ff0-8590-e92b39528f78.png style="width: 5%")I’m currently working on [SK C&C](https://www.skcc.co.kr/) as a Data Analytics/Engineering.
-- 🌱 I'm always learning Maching Learing & Deep Learning & other data-related work 
+- 🖥️ I’m currently working on [SK C&C](https://www.skcc.co.kr/) as a Data Analytics/Engineering.
+- 📘 I'm always learning Maching Learing & Deep Learning & other data-related work 
 - 🔽 my another concact link is below 🔽
 
   [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://bluemumin.github.io/)](https://bluemumin.github.io/) 
