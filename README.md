@@ -34,4 +34,4 @@
 
 [![bluemumin's GitHub stats](https://github-readme-stats.vercel.app/api?username=bluemumin)](https://github.com/bluemumin/github-readme-stats)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bluemumin&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bluemumin&hide_border=true&layout=compact" align="right" style="width: 100%" />
