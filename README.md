@@ -35,7 +35,7 @@
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=bluemumin&show_icons=true&count_private=true&hide_border=true&theme=dark&show_icons=true" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=bluemumin&show_icons=true&count_private=true&hide_border=true&theme=buefy&show_icons=true" align="left" style="width: 100%" />
 
 </td><td valign="top" width="50%">
 
