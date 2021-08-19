@@ -17,17 +17,17 @@
 ### Data Analytics/Engineering
 
 ### 💫 Experience
-- **SK C&C** - Data Analytics/Engineering *(Jan 2020 ~) https://www.skcc.co.kr/*
-- **DACON** - Student Intern, Data analyst *(Sep 2019 - Dec 2019) https://dacon.io/* 
+- **[SK C&C](https://www.skcc.co.kr/)** - Data Analytics/Engineering *(Jan 2020 ~)*
+- **[DACON](https://dacon.io/)** - Student Intern, Data analyst *(Sep 2019 - Dec 2019)* 
   
 ### 📝 Interest
 - Machine Learning / Deep Learning (Studying 5 years)
 - Oracle DBMS (Now Working Data HUB - DA(Data Architect)) 
-- MLOps(I'm studying this page : https://fullstackdeeplearning.com/)
+- MLOps(I'm studying [this page](https://fullstackdeeplearning.com/) )
 
 ### ✨ Summary
 
 - 🔭 I’m currently working on [SK C&C](https://www.skcc.co.kr/) as a Data Analytics/Engineering.
 - 🌱 I'm always learning Maching Learing & Deep Learning & other data-related work 
 
-(한국어 버전 : 블로그 about로 대체함(https://bluemumin.github.io/about/)
+(한국어 버전 : [블로그 about로 대체함](https://bluemumin.github.io/about/)
