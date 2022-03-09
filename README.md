@@ -1,6 +1,6 @@
 ### 👋 Hi Everyone. I'm Gyeong Rok Kim
 
-(한국어 버전 : [블로그 about로 대체함](https://bluemumin.github.io/about/) )
+(한국어 버전 : [노션 포트폴리오](https://bluemumin.notion.site/bluemumin/Blue-mumin-57d3d37276be466798e077a267e2bd3c) )
 
   <div align=right>
   
