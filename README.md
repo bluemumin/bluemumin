@@ -12,8 +12,8 @@
 
 ### 💫 Experience
 - **[SK C&C](https://www.skcc.co.kr/)** - Data Analytics/Engineering *(Jan 2020 ~)*
-- *** SK Geo Centric (2022.04) : Establishment and advancement of plastic property prediction model
-- *** SK Hynix DataHub Construction proj (2020.03 ~ 2022.01) : Oracle-based data extraction, analysis, and data consistency verification
+- ㄴ SK Geo Centric (2022.04) : Establishment and advancement of plastic property prediction model
+- ㄴ SK Hynix DataHub Construction proj (2020.03 ~ 2022.01) : Oracle-based data extraction, analysis, and data consistency verification
 - **[DACON](https://dacon.io/)** - Student Intern, Data analyst *(Sep 2019 - Dec 2019)* 
   
 ### 📝 Interest
